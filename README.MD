@@ -1,2 +1,1 @@
-"Ã¹ git ÆÄÀÏ" 
-"ì—°ìŠµ pushí•œ í›„ pullí•˜ê¸°" 
+"push exemple"
